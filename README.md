@@ -24,3 +24,11 @@
 ![graph1](https://github.com/efipaka/NLP-Gender-Analysis-/blob/main/comparison_genders_monarchy.png)
 
 [Press to go to the Github Page](https://efi-pecani.github.io/NLP-Gender-Analysis-/)
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/nlp-gender-analysis/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
