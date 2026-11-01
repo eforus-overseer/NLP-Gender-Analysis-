@@ -32,3 +32,11 @@
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/nlp-gender-analysis/) — Explore the project, its method, and available demos or original artifacts.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for NLP-Gender-Analysis-](assets/pixel-art.svg)
+
+A small visual signature for this repository.
